@@ -1,6 +1,6 @@
 # 🏥 Healthcare Dashboard Analysis
 
-This project analyzes healthcare data from 2,335 patients to uncover how factors such as diabetes, weight, age, transplant history, smoking, and hospital types affect healthcare costs. The findings are presented using interactive visuals built in Power BI (or Excel), providing insights for better healthcare planning, prevention, and policy-making.
+This project analyzes healthcare data from 2,335 patients to uncover how factors such as diabetes, weight, age, transplant history, smoking, and hospital types affect healthcare costs. The findings are presented using interactive visuals built in Excel, providing insights for better healthcare planning, prevention, and policy-making.
 
 ---
 
@@ -42,8 +42,7 @@ This project provided valuable insights into healthcare management:
 
 ## 🧰 Tools Used
 
-- **Excel / Power BI** – Dashboard creation and data visualization  
-- **Pandas (optional)** – Data preparation  
+- **Excel Dashboard creation and data visualization    
 - **Visualization Types** – Bar Charts, Donut Charts, Line Graphs, Pie Charts  
 - **Analysis Framework** – High-level storytelling, targeted insights, actionable recommendations
 
@@ -51,11 +50,9 @@ This project provided valuable insights into healthcare management:
 
 ## 📁 Repository Contents
 
-- `Healthcare_Dashboard.pbix` / `.xlsx` – Main dashboard file  
+- `Healthcare_Dashboard.xlsx – Main dashboard file  
 - `README.md` – Project documentation  
-- `Findings_Recommendations.xlsx` *(optional)* – Tabular summary of insights and actions  
 
----
 
 ## 🔄 Future Work
 
