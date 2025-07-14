@@ -26,20 +26,6 @@ Here’s a breakdown of the key visual insights:
 
 - **Hospital Tier Charges by State**: **Tier 3 hospitals** are significantly more expensive, with wide variation in charges depending on the region. Tier 1 hospitals are more cost-effective and consistent.
 
----
-
-## ✅ Key Findings & Recommendations
-
-| **Area**              | **Finding**                                                                 | **Recommendation**                                                                                  |
-|-----------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| **Diabetes & Obesity**| Obese diabetic patients have the **highest healthcare costs**.              | Launch **weight management and diabetes prevention programs**, focusing on diet, exercise, and early screening. |
-| **Transplants**       | Transplant patients show **higher HbA1C** and **increased surgeries**.       | Provide **closer post-transplant care**, including regular monitoring of blood sugar and surgical recovery. |
-| **Smoking & Cancer**  | Smokers are **more likely to have cancer** compared to non-smokers.          | Strengthen **anti-smoking campaigns** and promote **early cancer screenings** for smokers.          |
-| **Age 41–60**         | This age group has the **highest healthcare charges**.                       | Implement **preventive health programs** starting at age 30 to reduce chronic disease impact later. |
-| **Hospital Tiers**    | **Tier 3 hospitals** have **significantly higher costs**, varying by state.  | Promote **price transparency** and encourage use of **Tier 1 or Tier 2 hospitals** when appropriate. |
-| **Overall Trends**    | 53% of patients have diabetes; BMI as high as 55.05 indicates morbid obesity. | Run **public health campaigns** targeting obesity, sugar intake, and physical activity.              |
-
----
 
 ## 📘 Lessons Learned
 
@@ -77,11 +63,4 @@ This project provided valuable insights into healthcare management:
 - Trend tracking over time (time-series analysis)
 - Deeper clinical outcome analysis per hospital tier
 
----
-
-## 📬 Contact
-
-For feedback, collaboration, or questions, feel free to open an issue or reach out on [LinkedIn](https://www.linkedin.com).
-
----
 
